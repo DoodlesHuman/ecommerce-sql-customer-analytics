@@ -51,4 +51,4 @@ Here are some of the core insights derived from the SQL analysis.
 
 Critically, the "Needs Attention," "At Risk," and "Lost Customers" segments combined represent over 43% of all customers. This highlights a major opportunity for targeted re-engagement campaigns to prevent churn and recover lost revenue.
 
-![Customer Segments Bar Chart](results/5 segmentation.png)
+![Customer Segments Bar Chart](results/5segmentation.png)
