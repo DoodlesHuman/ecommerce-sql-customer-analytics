@@ -1,0 +1,18 @@
+campaign_id,campaign_name,start_date,end_date
+1,Winter-Angebote 2023,14/01/2023,12/02/2023
+2,Oster-Aktion 2023,03/04/2023,24/04/2023
+3,Sommer-Aktion 2023,05/07/2023,12/07/2023
+4,Sommer-Sale 2023,18/07/2023,05/08/2023
+5,Black Friday-Aktion 2023,04/11/2023,28/11/2023
+6,Black Friday-Rabatt 2023,29/11/2023,30/11/2023
+7,Winter-Rabatt 2023,22/12/2023,24/01/2024
+8,Sommer Sale 2024,15/05/2024,28/08/2024
+9,Herbst-Angebote 2024,24/09/2024,06/10/2024
+10,Black Friday-Sale2024,04/11/2024,28/11/2024
+11,Weihnachts-Rabatt 2024,09/12/2024,30/12/2024
+12,Oster-Angebote 2025,19/03/2025,26/04/2025
+13,Sommer-Aktion 2025,01/07/2025,31/08/2025
+14,Herbst-Rabatt 2025,09/10/2025,29/10/2025
+15,Weihnachts-Aktion 2025,05/12/2025,03/01/2026
+16,Winter-Sale 2025,18/12/2025,12/01/2026
+17,Winter-Rabatt 2025,24/12/2025,04/01/2026
