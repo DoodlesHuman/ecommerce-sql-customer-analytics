@@ -60,7 +60,7 @@ The average monthly sales growth over the entire period (September 2022 to Augus
 
 A year-over-year comparison shows that 2024 performed better than 2023, with a total growth of 15.46% compared to 12.44% in 2023. This suggests a slight improvement in overall sales performance, despite the continued volatility. The year 2025, however, appears to be on a weaker trend, with a negative cumulative growth of -12.87% as of August. This indicates a potential downturn in the most recent period.
 
-![Monthly Sales Growth Line Chart](results/2monthly.png)
+![Monthly Sales Growth Line Chart](results/2monthlysales.png)
 
 
 
