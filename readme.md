@@ -65,7 +65,7 @@ A year-over-year comparison shows that 2024 performed better than 2023, with a t
 ![Monthly Sales Growth Line Chart](results/2monthlysales.png)
 
 -------------------------------
-#### [Tableu Dashboard](https://github.com/DoodlesHuman/ecommerce-sql-customer-analytics)
+#### [Tableu Dashboard]([https://github.com/DoodlesHuman/ecommerce-sql-customer-analytics](https://public.tableau.com/views/E-CommerceDataAnalysis_17621794252210/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Actionable Recommendations
 
