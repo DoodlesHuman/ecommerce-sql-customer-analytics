@@ -40,6 +40,8 @@ The dataset was *synthetically generated* to model a realistic e-commerce busine
 
 - **Analysis**: SQL (using advanced techniques like CTEs, Window Functions, Joins, and Subqueries)
 
+- **Visualization**: Microsoft Excel, Tableau
+
 - **Version Control**: Git & GitHub
 
 ## Key Findings & Visualizations
@@ -62,7 +64,8 @@ A year-over-year comparison shows that 2024 performed better than 2023, with a t
 
 ![Monthly Sales Growth Line Chart](results/2monthlysales.png)
 
-
+-------------------------------
+#### [Tableu Dashboard](https://github.com/DoodlesHuman/ecommerce-sql-customer-analytics)
 
 ## Actionable Recommendations
 
